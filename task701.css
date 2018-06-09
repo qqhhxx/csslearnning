@@ -1,0 +1,157 @@
+html {
+    background-color: #29bde0;
+}
+
+body {
+    font-family: HiraginoSansGB-W3;
+    background-color: #29bde0;
+}
+
+header {
+    font-size: 17px;
+    width: 100%;
+    height: 48px;
+    padding-top: 16px;
+    text-align: center;
+    color: #fff;
+    background-color: #29bde0;
+}
+
+
+main {
+    overflow-y: scroll;
+    height: 440px;
+}
+
+img.e1 {
+    display: inline-block;
+    float: left;
+    margin-top: 5px;
+    margin-left: 3.75%;
+}
+
+img.e2 {
+    display: inline-block;
+    float: right;
+    margin-top: 6.5px;
+    margin-right: 3.75%;
+}
+
+#c1 {
+    font-size: 13px;
+    line-height: 3.15;
+    width: 100%;
+    height: 41px;
+    padding-left: 7.2vw;
+    color: #464646;
+    background-color: #b9e9f5 !important;
+    background-position: 97% 50%;
+    background-size: 26px 26px;
+}
+
+.e {
+    display: inline-block;
+    float: right;
+    margin-right: 2.6%;
+}
+
+button.play {
+    padding: 0;
+    padding: 0;
+    border: 0;
+    outline: none;
+    background-color: #b9e9f5;
+}
+
+#c2 {
+    font-size: 12px;
+    line-height: 3;
+    width: 100%;
+    height: 36px;
+    padding-left: 11.25vw;
+    color: #fff;
+    background: url(/users/administrator/csslearnning/images/7.png) no-repeat;
+    background-color: #29bde0 !important;
+    background-position: 11.1vw 0;
+    background-size: 8px 7px;
+}
+
+
+.col {
+    height: 105px;
+}
+
+
+
+.c3 {
+    width: 68px;
+    height: 68px;
+    margin: 0 auto;
+    border: 3px solid #fff;
+}
+
+
+.d {
+    width: 68px;
+    height: 105px;
+    margin: 0 auto;
+}
+
+
+.c4 {
+    font-size: 15px;
+    line-height: 3.2;
+    width: 100%;
+    height: 48px;
+    text-align: center;
+    color: #565656;
+    background-color: #f5c97b;
+}
+
+
+.c5 {
+    font-size: 12px;
+    line-height: 1.17;
+    width: 100%;
+    height: 14px;
+    text-align: center;
+    color: #fff;
+    background-color: #83b09a;
+}
+
+
+
+.d:hover {
+    background-image: url(/users/administrator/csslearnning/images/1.png), url(/users/administrator/csslearnning/images/2.png), url(/users/administrator/csslearnning/images/3.png), url(/users/administrator/csslearnning/images/4.png);
+    background-repeat: no-repeat, no-repeat, no-repeat, no-repeat;
+    background-position: 0 79px, 17.5px 79px, 35px 79px, 52.5px 79px;
+    background-size: 15px 15px;
+}
+
+
+
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 88vw;
+    height: 95px;
+    margin: 0 6vw;
+    border-top: 1px solid #fff;
+    background-color: #29bde0;
+}
+
+div.f {
+    font-size: 20px;
+    line-height: 1.8;
+    width: 76.6vw;
+    height: 36px;
+    margin: 21px 5.25vw 30.5px 5.25vw;
+    text-align: center;
+    color: #fff;
+    background-color: #fbb435;
+}
+
+a
+{
+    color: #fff;
+}
