@@ -7,7 +7,7 @@ header {
     font-size: 17px;
     padding-top: 20px;
     color: #fff;
-    background-image: url(/users/administrator/csslearnning/images/703.png);
+    background-image: url(../csslearnning/images/703.png);
     background-repeat: no-repeat;
     background-position: 96% 16px;
 }
@@ -27,7 +27,7 @@ div.s {
     font-size: 13px;
     color: #fff;
     font-family: HiraginoSansGB-W3;
-    background-image: url(/users/administrator/csslearnning/images/703-3.png);
+    background-image: url(../csslearnning/images/703-3.png);
     background-repeat: no-repeat;
     background-position: 50% 12.5px;
 }
