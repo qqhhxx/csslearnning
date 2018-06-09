@@ -70,7 +70,7 @@ button.play {
     height: 36px;
     padding-left: 11.25vw;
     color: #fff;
-    background: url(/users/administrator/csslearnning/images/7.png) no-repeat;
+    background: url(../csslearnning/images/7.png) no-repeat;
     background-color: #29bde0 !important;
     background-position: 11.1vw 0;
     background-size: 8px 7px;
@@ -122,7 +122,7 @@ button.play {
 
 
 .d:hover {
-    background-image: url(/users/administrator/csslearnning/images/1.png), url(/users/administrator/csslearnning/images/2.png), url(/users/administrator/csslearnning/images/3.png), url(/users/administrator/csslearnning/images/4.png);
+    background-image: url(../csslearnning/images/1.png), url(../csslearnning/images/2.png), url(../csslearnning/images/3.png), url(../csslearnning/images/4.png);
     background-repeat: no-repeat, no-repeat, no-repeat, no-repeat;
     background-position: 0 79px, 17.5px 79px, 35px 79px, 52.5px 79px;
     background-size: 15px 15px;
