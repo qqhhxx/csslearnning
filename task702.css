@@ -72,7 +72,7 @@ footer {
     bottom: 0;
 }
 
-div.f {
+a.f {
     float: left;
     width: 42.18vw;
     height: 43px;
@@ -85,6 +85,7 @@ div.f {
     margin-top: 12px;
     text-align: center;
     line-height: 2.15;
+    text-decoration: none;
 }
 
 div.f1 {
